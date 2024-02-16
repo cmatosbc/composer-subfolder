@@ -1,0 +1,17 @@
+{
+    "name": "cmatosbc/cpt-abstract-facade",
+    "description": "Creates and adjusts CPTs and taxonomies using an OOP abstract-facade structure.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "cmatosbc",
+            "email": "cmatos@bettercollective.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BetterPHP\\": "src/"
+        }
+    }
+}
